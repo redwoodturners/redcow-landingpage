@@ -1,3 +1,8 @@
+# RedCoW Landing page
+
+The landing page for the Redwood Coast Woodturners.
+
+Developed from...
 # landing-page-boilerplate
 
 A pure client-side landing page template that you can freely fork, customize, host and link to your own domain name (e.g. using Github Pages).
